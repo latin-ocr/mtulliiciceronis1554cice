@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceronis1554cice_0008.png"; bbox 0 0 1518 2904; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 260 1332 1261 1542">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 260 1332 1261 1542">
+     <span class='ocr_line' id='line_1_1' title="bbox 409 1332 1113 1420; baseline 0 -21"><span class='ocrx_word' id='word_1_1' title='bbox 409 1362 595 1410; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 615 1362 663 1420; x_wconf 71' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 680 1362 747 1400; x_wconf 64' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 768 1332 931 1400; x_wconf 64' lang='lat' dir='ltr'>*memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 947 1362 1113 1400; x_wconf 63' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 484 1428 1201 1476; baseline 0.001 -11"><span class='ocrx_word' id='word_1_6' title='bbox 484 1428 517 1465; x_wconf 78' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 535 1429 638 1466; x_wconf 81' lang='grc'>2010</span> <span class='ocrx_word' id='word_1_8' title='bbox 655 1428 742 1466; x_wconf 71' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 760 1428 921 1476; x_wconf 72' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 939 1428 1036 1466; x_wconf 76' lang='lat' dir='ltr'>from</span> <span class='ocrx_word' id='word_1_11' title='bbox 1198 1474 1201 1475; x_wconf 15' lang='lat'><em>⁷</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 260 1493 1261 1542; baseline -0.001 -10"><span class='ocrx_word' id='word_1_12' title='bbox 260 1494 410 1532; x_wconf 79' lang='lat' dir='ltr'>Boston</span> <span class='ocrx_word' id='word_1_13' title='bbox 431 1494 581 1542; x_wconf 64' lang='lat' dir='ltr'>Library</span> <span class='ocrx_word' id='word_1_14' title='bbox 599 1493 854 1532; x_wconf 76' lang='lat' dir='ltr'>Consortium</span> <span class='ocrx_word' id='word_1_15' title='bbox 875 1494 1056 1532; x_wconf 76' lang='lat' dir='ltr'>Member</span> <span class='ocrx_word' id='word_1_16' title='bbox 1074 1494 1261 1532; x_wconf 70' lang='lat' dir='ltr'>Libraries</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 243 1730 287 1745">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 243 1730 287 1745">
+     <span class='ocr_line' id='line_1_4' title="bbox 243 1730 287 1745; baseline 0 -7"><span class='ocrx_word' id='word_1_17' title='bbox 243 1730 287 1745; x_wconf 36' lang='lat' dir='ltr'>&gt;fx</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 164 2741 1400 2797">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 164 2741 1400 2797">
+     <span class='ocr_line' id='line_1_5' title="bbox 164 2741 1400 2797; baseline 0.001 -19"><span class='ocrx_word' id='word_1_18' title='bbox 164 2741 1358 2797; x_wconf 69' lang='lat' dir='ltr'>http:llwww.archive.orqldetailslmtulliiciceronis1554cice</span> <span class='ocrx_word' id='word_1_19' title='bbox 1397 2759 1400 2762; x_wconf 59' lang='lat'><em>&gt;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
